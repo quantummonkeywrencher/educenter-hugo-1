@@ -10,7 +10,7 @@ categories:
 tags:
 - Decentralized Autonomous Organization
 - Decentralized systems
-type: 'Course '
+type: 'Post '
 draft: true
 
 ---
