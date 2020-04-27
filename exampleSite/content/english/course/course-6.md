@@ -1,31 +1,20 @@
 ---
-title: "Vlogging"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-image: "images/courses/course-6.jpg"
-# taxonomy
-category: "Photography"
-# teacher
-teacher: "Duis Rio"
-# duration
-duration : "06 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: $699"
-# apply url
-apply_url : "#"
-# type
-type: "course"
+title: Vlogging 101
+date: 
+bg_image: "/images/preloader.gif"
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+image: images/courses/course-6.jpg
+category: Photography
+teacher: Duis Rio
+duration: 06 Month
+weekly: 03 hours
+fee: 'From: $699'
+apply_url: "#"
+
 ---
-
-
-### About Course
+### About This Course
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -40,13 +29,10 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 
 ### Requirements
 
-
-
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
 
 ### How to Apply
 
@@ -55,7 +41,6 @@ labore et dolore magnam aliquam quaerat voluptatem.</p>
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 * Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
 
 ### Fees and Funding
 
