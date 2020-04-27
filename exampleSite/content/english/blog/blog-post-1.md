@@ -11,6 +11,7 @@ tags:
 - Decentralized Autonomous Organization
 - Decentralized systems
 type: 'Post '
+draft: true
 
 ---
 ### How Decentralized Technology will save your life
