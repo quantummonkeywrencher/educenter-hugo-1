@@ -46,22 +46,22 @@ weight = 4
 [[menu.main]]
 URL = "scholarship"
 name = "scholarship"
-parent = "Pages"
+parent = "Instructor"
 weight = 4
 [[menu.main]]
 URL = "notice"
 name = "notice"
-parent = "Pages"
+parent = "Instructor"
 weight = 3
 [[menu.main]]
 URL = "teacher"
 name = "teacher"
-parent = "Pages"
+parent = "Instructor"
 weight = 2
 [[menu.main]]
 URL = "event"
 name = "event"
-parent = "Pages"
+parent = "Instructor"
 weight = 1
 [[menu.main]]
 URL = "course"
@@ -70,7 +70,7 @@ weight = 2
 [[menu.main]]
 URL = "research"
 name = "research"
-parent = "Pages"
+parent = "Instructor"
 weight = 5
 [[menu.main]]
 URL = "contact"
@@ -78,7 +78,7 @@ name = "Contact"
 weight = 5
 [[menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Instructor"
 weight = 3
 [[menu.main]]
 URL = "about"
